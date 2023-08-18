@@ -9,9 +9,9 @@ namespace TrendyolAPIEntegrasyon
     internal class TrendyolAPI : APICall
     {
         private HttpClient _httpClient;
-        private string supplierId = "707701";
-        private string apiKey = "GQ3b3zrPGenkwtKftWAp";
-        private string apiSecretKey = "Hi1eIBx75R0MfqIkJHcV";
+        private string supplierId = "supplier Id";
+        private string apiKey = "API_KEY";
+        private string apiSecretKey = "API_SECRET_KEY";
 
         /// <summary>
         /// Constructor for API calls
