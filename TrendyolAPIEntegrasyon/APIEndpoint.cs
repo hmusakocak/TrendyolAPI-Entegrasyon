@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrendyolAPIEntegrasyon
 {
-    internal class APIEndpoint
+    public class APIEndpoint
     {
         public string endpoint_cat = "/sapigw/product-categories";
 
